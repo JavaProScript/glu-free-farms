@@ -1,1 +1,1 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+Glu-free-farms (temporary name) is an online shopping marketplace for people who cannot or don't want to consume gluten. It allows you to shop for food online on a market where you're sure NO TRACE OF GLUTEN is to spot. The webapp isn't up yet; stay tuned to follow the development of the action!
